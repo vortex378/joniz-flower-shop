@@ -2,6 +2,8 @@
 
 Premium multi-page website for **Lujon Flowers**, an artisan florist in Tirana, Albania.
 
+**[Visit the live site](https://joniz.vercel.app)**
+
 - Static site — plain HTML, CSS, JS (no build step).
 - Bilingual: Albanian (default) + English toggle.
 - Pages: Home, Shop, Product, Prices & Delivery, Weddings, About, Contact.
